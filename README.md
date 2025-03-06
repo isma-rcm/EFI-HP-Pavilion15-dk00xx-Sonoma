@@ -1,0 +1,1 @@
+# EFI-HP-Pavilion15-dk00xx-Sonoma
